@@ -6,6 +6,8 @@ This project trains and visualizes the outputs of a simple Deep Convolutional GA
 
 The goal of this project is to learn how to implement and train a DCGAN using TensorFlow 2 / Keras.
 
+(https://github.com/mahidavedant/DCGANs-Fashion-generation/blob/main/fashion-dcgan.gif)
+
 ## Data
 
 The data used for this project is the `Fashion-MNIST` dataset, which consists of 60,000 training images and 10,000 test images of 10 different classes of clothing items. The images are grayscale and have a size of `28 x 28 pixels`.
