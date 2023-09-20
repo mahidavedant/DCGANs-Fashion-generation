@@ -6,8 +6,6 @@ This project trains and visualizes the outputs of a simple Deep Convolutional GA
 
 The goal of this project is to learn how to implement and train a DCGAN using TensorFlow 2 / Keras.
 
-![Uploading fashion-dcgan.gif…]()
-
 
 ## Data
 
